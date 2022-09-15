@@ -1,7 +1,7 @@
 {
     "name": "My Elite Tea App",
     "short_name": "Elite Tea",
-    "start_url":"Home page.html",
+    "start_url":"Home.html",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
